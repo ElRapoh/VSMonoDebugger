@@ -3,6 +3,7 @@
 // Copyright (C) Microsoft Corporation.  All Rights Reserved.
 //
 //-----------------------------------------------------------------------------
+using pdb2mdb;
 using System;
 using System.Collections;
 using System.Collections.Generic;

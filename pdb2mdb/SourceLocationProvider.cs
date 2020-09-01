@@ -10,6 +10,7 @@ using Microsoft.Cci;
 using Microsoft.Cci.Pdb;
 using System.Text;
 using System.Diagnostics.SymbolStore;
+using pdb2mdb;
 
 namespace Microsoft.Cci {
 
